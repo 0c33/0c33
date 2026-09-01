@@ -1,4 +1,4 @@
-# Sami · 0c33
+# Sami · 0c33 · SBM Labs
 
 AI Systems Engineer based in Riyadh, SA.
 
